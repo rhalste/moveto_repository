@@ -1,3 +1,4 @@
+// Add a comment
 create or replace table merrill.dev_data_science.heap_usage_usa_outreach
   copy grants
   comment = 'DS1 Marketing Heap Table with salesforce_id filter a27'

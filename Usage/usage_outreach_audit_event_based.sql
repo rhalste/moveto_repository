@@ -1,3 +1,4 @@
+// Add a comment
 create or replace table merrill.dev_data_science.usage_usa_outreach_audit_event_based
    copy grants
    comment = 'Outreach Usage Activity based on Audit Events'
